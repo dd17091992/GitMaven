@@ -2,6 +2,7 @@ package com.test.JenkinsProject;
 
 import java.util.concurrent.TimeUnit;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
@@ -14,7 +15,7 @@ public class GitProject
   @Test
   public void f() 
   {
-	  System.out.println("Git Jenkins Project");
+	  driver.findElement(By.xpath("//a[text()='Sign Up Free']")).click();
   }
   
   @BeforeClass

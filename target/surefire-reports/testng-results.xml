@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17198" started-at="2017-09-14T03:00:27Z" finished-at="2017-09-14T03:00:44Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17198" started-at="2017-09-14T03:00:27Z" finished-at="2017-09-14T03:00:44Z">
+      <class name="com.test.JenkinsProject.GitProject">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.test.JenkinsProject.GitProject@7a5d012c]" name="beforeClass" is-config="true" duration-ms="12990" started-at="2017-09-14T08:30:27Z" finished-at="2017-09-14T08:30:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.test.JenkinsProject.GitProject@7a5d012c]" name="f" duration-ms="3283" started-at="2017-09-14T08:30:40Z" finished-at="2017-09-14T08:30:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.test.JenkinsProject.GitProject@7a5d012c]" name="afterClass" is-config="true" duration-ms="902" started-at="2017-09-14T08:30:43Z" finished-at="2017-09-14T08:30:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.test.JenkinsProject.GitProject -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
