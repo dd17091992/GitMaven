@@ -17,6 +17,8 @@ public class GitProject
   {
 	  System.out.println("GIT PROJECT UPDATED");
 	  driver.findElement(By.xpath("//a[text()='Sign Up Free']")).click();
+	  driver.findElement(By.id("name")).sendKeys("Ajay Ahire");
+	  
   }
   
   @BeforeClass
@@ -33,7 +35,7 @@ public class GitProject
   @AfterClass
   public void afterClass() 
   {
-	 driver.quit(); 
+	driver.quit(); 
   }
 
 }
