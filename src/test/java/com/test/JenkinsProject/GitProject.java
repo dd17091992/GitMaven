@@ -15,6 +15,7 @@ public class GitProject
   @Test
   public void f() 
   {
+	  System.out.println("GIT PROJECT UPDATED");
 	  driver.findElement(By.xpath("//a[text()='Sign Up Free']")).click();
   }
   
