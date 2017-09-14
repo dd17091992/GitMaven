@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="26698" started-at="2017-09-11T19:21:59Z" finished-at="2017-09-11T19:22:25Z">
+  <suite name="Suite" duration-ms="38782" started-at="2017-09-14T02:33:29Z" finished-at="2017-09-14T02:34:08Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="26698" started-at="2017-09-11T19:21:59Z" finished-at="2017-09-11T19:22:25Z">
+    <test name="Test" duration-ms="38782" started-at="2017-09-14T02:33:29Z" finished-at="2017-09-14T02:34:08Z">
       <class name="com.test.JenkinsProject.GitProject">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.test.JenkinsProject.GitProject@3ffc5af1]" name="beforeClass" is-config="true" duration-ms="25404" started-at="2017-09-12T00:51:59Z" finished-at="2017-09-12T00:52:24Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.test.JenkinsProject.GitProject@3ffc5af1]" name="beforeClass" is-config="true" duration-ms="35902" started-at="2017-09-14T08:03:29Z" finished-at="2017-09-14T08:04:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="f()[pri:0, instance:com.test.JenkinsProject.GitProject@3ffc5af1]" name="f" duration-ms="10" started-at="2017-09-12T00:52:24Z" finished-at="2017-09-12T00:52:24Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.test.JenkinsProject.GitProject@3ffc5af1]" name="f" duration-ms="15" started-at="2017-09-14T08:04:05Z" finished-at="2017-09-14T08:04:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.test.JenkinsProject.GitProject@3ffc5af1]" name="afterClass" is-config="true" duration-ms="1249" started-at="2017-09-12T00:52:24Z" finished-at="2017-09-12T00:52:25Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.test.JenkinsProject.GitProject@3ffc5af1]" name="afterClass" is-config="true" duration-ms="2779" started-at="2017-09-14T08:04:05Z" finished-at="2017-09-14T08:04:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
